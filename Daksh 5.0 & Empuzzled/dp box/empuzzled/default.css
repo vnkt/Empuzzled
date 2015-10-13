@@ -1,0 +1,20 @@
+body {
+	margin: 20px auto;
+}
+#answer-form {
+	margin: 25px auto;
+	width: 310px;
+}
+#answer-form input {
+	font-size: 18px;
+	padding: 2px 4px;
+}
+
+#google-form {
+	margin: 25px auto;
+	width: 700px;
+}
+#google-form input {
+	font-size: 18px;
+	padding: 2px 4px;
+}
